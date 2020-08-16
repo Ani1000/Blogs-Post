@@ -1,8 +1,8 @@
 
 
-C++ Tricks 
-     "Made with  ♥ .
-       By Animesh Ramasami "
+C++ Tips and Tricks.
+     "Made with  ♥ ."
+               "By Animesh Ramasami "
 
 
 I see lots of programmers write code like this one:
