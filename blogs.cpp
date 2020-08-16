@@ -126,7 +126,7 @@ If you need to loop over iterators of a set<pair<int, pair<int, int> > > from be
 
 also x.begin() and x.end() now are accessible using begin(x) and end(x).     
      
-3. Get rid of those includes!
+3. GET RID OF THOSE includes!
      
 Simply use
 
